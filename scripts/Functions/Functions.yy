@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Functions",
+  "parent":{
+    "name":"Perlin_noise_tests",
+    "path":"Perlin_noise_tests.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

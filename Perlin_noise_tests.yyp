@@ -1,0 +1,37 @@
+{
+  "$GMProject":"",
+  "%Name":"Perlin_noise_tests",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.6.2.162",
+  },
+  "name":"Perlin_noise_tests",
+  "resources":[
+    {"id":{"name":"obj_cell","path":"objects/obj_cell/obj_cell.yy",},},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Functions","path":"scripts/Functions/Functions.yy",},},
+    {"id":{"name":"PerlinNoise","path":"scripts/PerlinNoise/PerlinNoise.yy",},},
+    {"id":{"name":"shd_perlin_noise_glsl_es","path":"shaders/shd_perlin_noise_glsl_es/shd_perlin_noise_glsl_es.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

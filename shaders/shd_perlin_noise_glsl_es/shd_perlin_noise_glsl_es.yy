@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_perlin_noise_glsl_es",
+  "name":"shd_perlin_noise_glsl_es",
+  "parent":{
+    "name":"Perlin_noise_tests",
+    "path":"Perlin_noise_tests.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

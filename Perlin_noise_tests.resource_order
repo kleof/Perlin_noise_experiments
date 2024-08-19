@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_cell","order":10,"path":"objects/obj_cell/obj_cell.yy",},
+    {"name":"obj_controller","order":5,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"Functions","order":4,"path":"scripts/Functions/Functions.yy",},
+    {"name":"PerlinNoise","order":7,"path":"scripts/PerlinNoise/PerlinNoise.yy",},
+    {"name":"shd_perlin_noise_glsl_es","order":6,"path":"shaders/shd_perlin_noise_glsl_es/shd_perlin_noise_glsl_es.yy",},
+  ],
+}
