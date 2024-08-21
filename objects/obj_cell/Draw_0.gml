@@ -8,6 +8,7 @@ if (!surface_exists(surf_crop)) {
 t += .6;
 var _noise = perlin_noise_2d(x * .15 + t, y * .15 + t);	// magic number .15
 density = map(_noise, -1, 1, -2, density_max);	// magic number -2
+//density = map_curve(_noise, -1, 1, -2, density_max, 1, 2);
 //rot = map(perlin_noise(x + y*GRID, .05), -1, 1, 0, 360); 
 //rot += 5;
 
