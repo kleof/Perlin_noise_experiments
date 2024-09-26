@@ -14,7 +14,6 @@ density = remap(_noise, -1, 1, -2, density_max);	// magic number -2
 
 surface_set_target(surf_lines);
 draw_clear_alpha(c_black, 0);
-draw_set_color(c_white);
 draw_lines(GRID*2, density, xoff);
 surface_reset_target();
 
